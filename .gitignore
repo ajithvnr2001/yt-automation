@@ -1,0 +1,10 @@
+# Runtime artifacts
+cancel-log.txt
+run.lock
+
+# OS junk
+Thumbs.db
+Desktop.ini
+
+# Node
+node_modules/
